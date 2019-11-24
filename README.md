@@ -1,7 +1,9 @@
 # peabody-local-service
 Hello thanks coming here...
 
-This project is currently being migrated to a new version that will support the new Azure IoT Central app platform. I will provide a new github url shortly.
+This project has been migrated to a new version to support IoT Central M3 apps.
 
-Please check back...
+Please see this project:
+https://github.com/sseiber/iotc-pnp-aidevkit-module
+
 
